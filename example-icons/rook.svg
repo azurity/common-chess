@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64px" height="64px" id="root" viewBox="0 0 1024 1024">
+    <g stroke-width="32" stroke="black" fill="currentColor">
+        <path d="M256,896 l512,0 l0,-64 l-64,-128 l-384,0 l-64,128 z" />
+        <!-- <path d="M352,640 l320,0 l0,-64 l-64,-192 l-192,0 l-64,192 z" />
+        <path d="M608,384 l128,0 l0,-256 l-100,0 l0,48 l-74,0 l0,-48 l-100,0 l0,48 l-74,0 l0,-48 l-100,0 l0,256 l128,0 z" /> -->
+        <path fill-rule="evenodd" d="M352,640 l320,0 l0,-64 l-64,-192 l128,0 l0,-256 l-100,0 l0,48 l-74,0 l0,-48 l-100,0 l0,48 l-74,0 l0,-48 l-100,0 l0,256 l128,0 l-64,192 z M544,448 l0,-128 l-64,0 l0,128 z" />
+    </g>
+</svg>

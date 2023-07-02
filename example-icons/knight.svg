@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64px" height="64px" id="root" viewBox="0 0 1024 1024">
+    <g stroke-width="32" stroke="black" fill="currentColor">
+        <path d="M256,896 l512,0 l0,-64 l-64,-128 l-384,0 l-64,128 z" />
+        <!-- <path d="M352,640 l320,0 l-64,-256 l-192,0 z" /> -->
+        <path d="M352,640 l320,0 c0,-192,64,-128,64,-320 a192,192,0,0,0,-192,-192 h-192 l48,48 a48,48,0,0,0,-48,48 v48 v128 h64 l128,-128 l32,32 l-192,192 z" />
+    </g>
+</svg>
